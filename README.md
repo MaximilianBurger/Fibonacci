@@ -1,4 +1,3 @@
 # Fibonacci
 ## Hi Mom!
-
-I hate fuckin' turtles :fire:
+### I like turtles :turtle:
